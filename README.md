@@ -19,7 +19,7 @@ my key specializations:
 - soft skills: sociability, eloquence(public speaking skills), stress resistance, team work, introspection, creativity, ability to negotiate and assure
 - personal qualities: politeness, focus on result, quick and competent decision-making, discipline, optimism
 
->worked with yandex, pro.finansy, startum, like center, shumanov park, laguna tours, em architect, petr orlov
+>worked with yandex, finex, pro.finansy, startum, like center, shumanov park, laguna tours, em architect, petr orlov
 
 > i am developing several projects right now, you can read about them below. i have contributed to several projects before, u can read about them below too.
 
