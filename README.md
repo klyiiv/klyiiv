@@ -11,11 +11,11 @@
 > my expertise lies in *ios development*, *python industrial development*, and I love making complicated socially useful projects
 
 my key specializations: 
-- python: oop, numpy, matplotlib, asyncio, flask, pyqt, sql (*2 year experience*)
+- python: oop, numpy, matplotlib, asyncio, flask, pyqt, pandas (*2 year experience*)
 - ios-dev: swift, xcode, sql (*<1 year experience*)
 - design: canva, figma, ps (*3 year experience*)
 - information security: dlp, vpn, infosec laws
-- oth: ChatGpt and other neuronets, notion, google docs(deeply advanced), CRM-systems(bitrix), miro, marketing skills
+- oth: sql, ChatGpt and other neuronets, notion, google docs(deeply advanced), CRM-systems(bitrix), miro, marketing skills
 - soft skills: sociability, eloquence(public speaking skills), stress resistance, team work, introspection, creativity, ability to negotiate and assure
 - personal qualities: politeness, focus on result, quick and competent decision-making, discipline, optimism
 
