@@ -11,7 +11,7 @@
 > my expertise lies in *ios development*, *python industrial development*, and I love making complicated socially useful projects
 
 my key specializations: 
-- python: oop, numpy, matplotlib, asyncio, flask, pyqt, pandas (*2 year experience*)
+- python: oop, numpy, matplotlib, asyncio, flask, pyqt, pandas, sql, csv (*2 year experience*)
 - ios-dev: swift, xcode, sql (*<1 year experience*)
 - design: canva, figma, ps (*3 year experience*)
 - information security: dlp, vpn, infosec laws
